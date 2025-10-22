@@ -9,4 +9,11 @@
         <a href='https://seed.bytedance.com/seed3d'><img src='https://img.shields.io/badge/Project_Page-Seed3D-green' alt='Project Page'></a>
         <a href='https://lf3-static.bytednsdoc.com/obj/eden-cn/lzylckllz/ljhwZthlaukjlkulzlp/1021.mp4'><img src='https://img.shields.io/badge/Video-Seed3D-yellow' alt='Video'></a>
         <a href='https://console.volcengine.com/ark/region:ark+cn-beijing/experience/vision?modelId=doubao-seed3d-1-0-250928&tab=Gen3D'><img src='https://img.shields.io/badge/Demo-Seed3D-blue' alt='Demo'></a>
+        <br>
+        <br>
+        
+
+https://github.com/user-attachments/assets/b32fdd94-e4c2-46d8-bce0-ee54211da7f2
+
+
   </p>
